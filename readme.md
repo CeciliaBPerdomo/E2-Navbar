@@ -55,3 +55,10 @@ Además, pueden visitar los siguientes recursos para mejorar el diseño:
   - Revisar posibles mejoras.
   - Resolver dudas sobre los puntos que no hayan logrado solucionar.
 
+
+## 🌐 Enlaces de Entrega
+- **Repositorio en GitHub:** [https://github.com/CeciliaBPerdomo/E2-Navbar](#)
+- **Deployment en Vercel:** [https://e2-navbar-plum.vercel.app/](#)
+
+¡Gracias por visitar este proyecto!
+
