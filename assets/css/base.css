@@ -12,8 +12,8 @@ html {
 
 body {
     min-height: 100dvh;
-    display: flex;
-    background-color: #b8dbd9;
+    /* display: flex; */
+    background-color: white;
 }
 
 a { 

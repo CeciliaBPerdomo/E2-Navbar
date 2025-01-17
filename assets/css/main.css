@@ -3,3 +3,6 @@
 
 /* Estilos del navbar */
 @import url('./navbar.css');
+
+/* Estilos de la portada */
+@import url('./portada.css');
