@@ -1,0 +1,43 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    background-color: lightgray;
+}
+
+.navbar-main {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+    align-items: center;
+}
+
+.navbar-main a {
+    color: black;
+    border: 0.05rem solid #f4f3ee;
+    background-color: transparent;
+    padding: 0.75rem 0.75rem;
+    border-radius: 0.25rem;
+}
+
+.navbar-user {
+    align-self: center;
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.navbar-user a {
+    text-align: center;
+    color: black;
+    border: 0.05rem solid #f4f3ee;
+    background-color: transparent;
+    padding: 0.75rem 0.75rem;
+    border-radius: 0.25rem;
+}
